@@ -1,0 +1,29 @@
+Code for masters project.
+Requires running in a Linux environment.
+Requires running with Dedalus v3 installed.  https://dedalus-project.readthedocs.io/en/latest/index.html#
+
+Currently contains code for a range of things
+  some example code from the Dedalus website that I've been trying to understand.
+  some code of my own.
+
+Contents: 
+  Example and tutorial scripts
+    The 4 tutorials of the Dedalus which are on the website.
+    A couple of the example scripts which I used to test if my installation of Dedalus was functioning correctly.
+  Growth of MRI
+    Code for calculating the growth rate using the equations of Vasil. The solar dynamo begins near the surface.
+  Lane Emden
+    Contains my attempt at a conde of calculating a solution for the Lane-Emden equation.
+    Dedalus's code for calculating a solution to the Lane-Emden eqn.
+    Mesa profiles for 0.3 and 1 solar mass stars
+    A code to produce a rough set of figures for the density profile of the 0.3 and 1 solar mass stars using their mesa data.
+    Images and PDFs of the figures produced.
+  Simple calculations
+    A set of simple calculations for estimating the location of the near-surface shear layer. When working on the assumption of rossby number = 1.
+    A data file of a stellar model used in the estimation of the NSSL location.
+    Code which crudely estimates the rotation rates required to have a rossby number of 1 at different depths.
+
+
+
+
+Some folders have random pictures of Michael Scott because GitHub doesn't allow me to upload some folders due to the number of things in them or their size, so upload a folder to put the too many things into and upload it in stages. However, you can't upload an empty folder (or as far as I'm aware make one), so the picture is there so I'm not uploading an empty folder.
