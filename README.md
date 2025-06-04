@@ -1,15 +1,15 @@
-Code for masters project.
-Requires running in a Linux environment.
-Requires running with Dedalus v3 installed.  https://dedalus-project.readthedocs.io/en/latest/index.html#
+Code for masters project.<br/> 
+Requires running in a Linux environment.<br/>
+Requires running with Dedalus v3 installed.  https://dedalus-project.readthedocs.io/en/latest/index.html#   <br/>
 
-Currently contains code for a range of things
-  some example code from the Dedalus website that I've been trying to understand.
-  some code of my own.
+Currently contains code for a range of things<br/>
+  some example code from the Dedalus website that I've been trying to understand.<br/>
+  some code of my own.<br/>
 
-Contents: 
-  Example and tutorial scripts
-    The 4 tutorials of the Dedalus which are on the website.
-    A couple of the example scripts which I used to test if my installation of Dedalus was functioning correctly.
+Contents: <br/>
+  Example and tutorial scripts<br/>
+    The 4 tutorials of the Dedalus which are on the website.<br/>
+    A couple of the example scripts which I used to test if my installation of Dedalus was functioning correctly.<br/>
   Growth of MRI
     Code for calculating the growth rate using the equations of Vasil. The solar dynamo begins near the surface.
   Lane Emden
