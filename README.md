@@ -3,8 +3,8 @@ Requires running in a Linux environment. <br/>
 Requires running with Dedalus v3 installed.  https://dedalus-project.readthedocs.io/en/latest/index.html#   <br/>
 
 Currently contains code for a range of things. <br/>
-  some example code from the Dedalus website that I've been trying to understand. <br/>
-  some code of my own. <br/>
+  - some example code from the Dedalus website that I've been trying to understand. <br/>
+  - some code of my own. <br/>
 
 Contents: <br/>
   - Example and tutorial scripts <br/>
